@@ -19,7 +19,6 @@
         </li>
         <li><a class="nav-link" href="#Hello_World">Hello world</a></li>
         <li><a class="nav-link" href="#Hello">Hello</a></li>
-        <li><a class="nav-link" href="#Hello2">Hello2</a></li>
       </ul>
     </nav>
     <main id="main-doc">
@@ -62,20 +61,12 @@
       <section id="Hello" class="main-section">
         <header>
           <h1>Hello</h1>
-        </header>
           <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code:</p>
           <p>function greetMe(yourName) { alert("Hello " + yourName); }<br>
             greetMe("World");</p>
+        </header>
       </section>
 
-      <section id="Hello2" class="main-section">
-        <header>
-          <h1>Hello2</h1>
-        </header>
-          <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code:</p>
-          <p>function greetMe(yourName) { alert("Hello " + yourName); }<br>
-            greetMe("World");</p>
-      </section>
     </main>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
