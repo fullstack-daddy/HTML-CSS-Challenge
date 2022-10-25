@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#navbar {
+  width: 30%;
+}
+
+#main-doc {
+  flex-grow: 1;
+}
+
+@media only and screen (max-width: 820px) {
+  body {
+    flex-direction: row;
+  }
+}
+@media only screen and (max-width: 2000px) {
+  body {
+    flex-direction: row;
+  }
+}
